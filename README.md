@@ -4,7 +4,7 @@ YouTube downloader nativo pra macOS, em SwiftUI, em cima do [yt-dlp](https://git
 
 ## Instalar
 
-Precisa de **macOS 26 (Tahoe) ou mais novo** e do [Homebrew](https://brew.sh). No Terminal:
+Precisa de **macOS 14 (Sonoma) ou mais novo** (no macOS 26 o app usa o visual Liquid Glass) e do [Homebrew](https://brew.sh). No Terminal:
 
 ```sh
 brew install --cask deandevz/tap/puxa
